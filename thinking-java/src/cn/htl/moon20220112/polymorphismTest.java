@@ -54,7 +54,7 @@ class A {
             C c = new C();
             D d = new D();
             System.out.println(b);
-            System.out.println("1--" + a1.show(b));
+            System.out.println("1---" + a1.show(b));
 //            System.out.println("2--" + a1.show(c));
 //            System.out.println("3--" + a1.show(d));
 //            System.out.println("4--" + a2.show(b));
